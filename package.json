@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A professional portfolio website for Kaiwala Sambango, a Business Administrator with experience in aviation operations, administration, and customer service.",
   "main": "index.js",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
